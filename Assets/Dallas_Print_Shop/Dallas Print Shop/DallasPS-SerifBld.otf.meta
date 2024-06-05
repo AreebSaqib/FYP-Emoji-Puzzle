@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e8522d9df51a073408e66a616fe5086a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dallas PS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a797748c56af12f49bf41e5c564fd1fb, type: 3}
+  - {fileID: 12800000, guid: f0e7f2bc367bebb459387e762a390abb, type: 3}
+  - {fileID: 12800000, guid: 666a2a127ceb1e54ea91fff53bb25be9, type: 3}
+  - {fileID: 12800000, guid: b215f790874d71f48a13d9b5479583fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
